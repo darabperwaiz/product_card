@@ -59,8 +59,6 @@ src/
 │   ├── ProductCard.js   # Component for rendering product cards
 ├── index.js             # Entry point
 ├── App.js               # Main application component
-└── styles/
-    └── tailwind.css     # Tailwind configuration
 ```
 
 ## Responsive Layout
