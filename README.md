@@ -1,7 +1,7 @@
 
 # Responsive Product Cards with React and Tailwind CSS
 
-This project demonstrates how to create responsive product cards using **React** and **Tailwind CSS**. The product cards are dynamically rendered based on a data array and showcase a minimalist, modern design. The layout is fully responsive and adapts to mobile, tablet, and desktop screens.
+This project demonstrates how to create responsive product cards using **React** and **Tailwind CSS**. The product cards are dynamically rendered based on a data array. The layout is fully responsive and adapts to mobile, tablet, and desktop screens.
 
 ## Features
 
@@ -20,7 +20,10 @@ This project demonstrates how to create responsive product cards using **React**
 
 | Mobile View          | Tablet View          | Desktop View          |
 |----------------------|----------------------|-----------------------|
-| ![Mobile Screenshot](https://via.placeholder.com/150) | ![Tablet Screenshot](https://via.placeholder.com/300x200) | ![Desktop Screenshot](https://via.placeholder.com/400x250) |
+| ![Mobile Screenshot](https://github.com/user-attachments/assets/224a511f-4fd8-4632-b7c7-5bded58de2d4)
+ | ![Tablet Screenshot](https://github.com/user-attachments/assets/f496c946-5957-42ed-af71-087571e85728)
+ | ![Desktop Screenshot](https://github.com/user-attachments/assets/01deeed9-e5c9-44e5-9973-bdb5d3a7b60f)
+ |
 
 ## Installation
 
@@ -46,19 +49,6 @@ This project demonstrates how to create responsive product cards using **React**
 
 The product data is stored in an array in the `ProductCard` component. You can customize the product list by modifying the `products` array:
 
-```javascript
-const products = [
-  {
-    id: 1,
-    title: "Minimalist Chair",
-    description: "A sleek and stylish chair for modern interiors.",
-    price: "$149.99",
-    image: "https://via.placeholder.com/400x250",
-  },
-  ...
-];
-```
-
 ## Technologies Used
 
 - **React**: For building the user interface.
@@ -79,8 +69,8 @@ src/
 ## Responsive Layout
 
 - **Mobile**: Single-column layout.
-- **Tablet**: Two-column layout.
-- **Desktop**: Three-column layout.
+- **Tablet**: Three-column layout.
+- **Desktop**: Four-column layout.
 
 ## Customization
 
@@ -89,30 +79,15 @@ src/
 - **Product Data**:
   Update the `products` array to display your own product information.
 
-## Future Enhancements
-
-- Add product filtering or sorting.
-- Include animations on hover.
-- Integrate a real API for product data.
-- Add a modal or detailed view for each product.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it for your own projects.
-
 ---
 
 ### **Screenshots**
 
 #### **Mobile View**
-![Mobile View](https://via.placeholder.com/300x500)
+![Mobile View](https://github.com/user-attachments/assets/a7cf16cf-51d4-42ff-ab42-0483ff36bf58)
 
-#### **Desktop View**
-![Desktop View](https://via.placeholder.com/800x400)
+## **Desktop View**
+##![Desktop View](https://github.com/user-attachments/assets/ad9047f0-b714-430b-a835-727020750a93)
 
 ---
 
-## Author
-
-[Your Name](https://github.com/your-username)  
-Freelance Developer specializing in React and Tailwind CSS. Feel free to connect!
