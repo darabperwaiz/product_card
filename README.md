@@ -20,8 +20,7 @@ This project demonstrates how to create responsive product cards using **React**
 
 | Mobile View          | Tablet View          | Desktop View          |
 |----------------------|----------------------|-----------------------|
-| ![Mobile Screenshot](https://github.com/user-attachments/assets/224a511f-4fd8-4632-b7c7-5bded58de2d4) | ![Tablet Screenshot](https://github.com/user-attachments/assets/f496c946-5957-42ed-af71-087571e85728) | ![Desktop Screenshot](https://github.com/user-attachments/assets/01deeed9-e5c9-44e5-9973-bdb5d3a7b60f)
- |
+| ![Mobile Screenshot](https://github.com/user-attachments/assets/224a511f-4fd8-4632-b7c7-5bded58de2d4) | ![Tablet Screenshot](https://github.com/user-attachments/assets/f496c946-5957-42ed-af71-087571e85728) | ![Desktop Screenshot](https://github.com/user-attachments/assets/01deeed9-e5c9-44e5-9973-bdb5d3a7b60f) |
 
 ## Installation
 
