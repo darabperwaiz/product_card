@@ -26,8 +26,8 @@ This project demonstrates how to create responsive product cards using **React**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-product-cards.git
-   cd responsive-product-cards
+   git clone https://github.com/darabperwaiz/product_card.git
+   cd product-card
    ```
 
 2. Install dependencies:
